@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hound/diffs"
+	"github.com/caligin/hound/diffs"
 )
 
 func main() {

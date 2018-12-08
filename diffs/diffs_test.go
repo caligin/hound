@@ -2,7 +2,7 @@ package diffs_test
 
 import (
 	"github.com/stretchr/testify/assert"
-	"hound/diffs"
+	"github.com/caligin/hound/diffs"
 	"testing"
 )
 
